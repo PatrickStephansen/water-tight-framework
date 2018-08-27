@@ -1,4 +1,4 @@
-# water-tight-framework
+# Water Tight Framework
 
 A javascript UI framework based on obscure and recommended-against features of various standards
 
@@ -8,3 +8,4 @@ A javascript UI framework based on obscure and recommended-against features of v
 * use named access to refer to DOM elements http://w3c.github.io/html/browsers.html#named-access-on-the-window-object
 * use iframes to separate scopes of components
 * use a document to contain related components like a sprite sheet, and pass parameters via the URL
+* make use of `this` within functions called from HTML
